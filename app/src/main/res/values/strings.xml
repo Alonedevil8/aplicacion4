@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Practica 4</string>
+    <string name="formulario">Formulario</string>
+    <string name="usuario">Usuario:</string>
+    <string name="contraseña">Contraseña:</string>
+    <string name="rcontraseña">R Contraseña</string>
+    <string name="correoE">Email</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="fechaN">Fecha N</string>
+    <string name="lugarN">Lugar Nacimiento</string>
+    <string name="natacion">Natacion</string>
+    <string name="cine">Cine</string>
+    <string name="futbol">Futbol</string>
+    <string name="videoj">VideoGames</string>
+    <string name="aceptar">Aceptar</string>
+
+
+<string-array name="Ciudad">
+    <item>Medellin</item>
+    <item>Bogota</item>
+    <item>Barranquilla</item>
+    <item>Cartagena</item>
+    <item>Cali</item>
+    <item>Monteria</item>
+    <item>San Andres</item>
+    <item>Santa marta</item>
+</string-array>
+
+
+</resources>
